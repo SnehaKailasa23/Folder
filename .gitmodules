@@ -1,0 +1,6 @@
+[submodule "Folder"]
+	path = Folder
+	url = https://github.com/SnehaKailasa23/Folder.git
+[submodule "FolderSubModule"]
+	path = FolderSubModule
+	url = https://github.com/SnehaKailasa23/Folder.git
