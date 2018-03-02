@@ -4,3 +4,6 @@
 [submodule "FolderSubModule"]
 	path = FolderSubModule
 	url = https://github.com/SnehaKailasa23/Folder.git
+[submodule "android_hello_world"]
+	path = android_hello_world
+	url = https://github.com/SnehaKailasa23/android_hello_world.git
